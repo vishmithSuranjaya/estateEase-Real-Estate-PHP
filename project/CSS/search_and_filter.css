@@ -1,0 +1,353 @@
+:root {
+    --main-color: rgb(0, 158, 96);
+    --first-color: #ebebeb;
+    --second-color: #099d02;
+    --third-color: #fff;
+    --font-color: black;
+    --hover-color: #099d02;
+    --background-color: #fff;
+    --btn-color: #099d02;
+}
+* {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--font-color);
+}
+
+/* Responsive styles */
+@media (max-width: 992px) {
+    .left-side-bar, .calculator1, .list_adds {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .left-side-bar, .calculator1 {
+        display: none; 
+    }
+    .list_adds {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: var(--background-color);
+}
+
+.card .card-body {
+    padding: 1.5rem 1.5rem 1.5rem 1rem !important; /* Custom padding */
+}
+
+
+
+/* Left Side Bar Styling */
+.left-side-bar {
+    background-color: var(--first-color);
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 15px;
+    padding: 20px;
+    position: fixed;
+    width: 25%;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.content9:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+
+/* Filter Sections Styling */
+.filtersec1, .filtersec2, .filtersec3, .filtersec4, .filtersec5, .filtersec6 {
+  
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+
+.form-outline {
+    flex-grow: 1;
+}
+
+.form-control {
+    width:0px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    background-color: var(--first-color);
+}
+
+.form-control:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 8px rgba(128, 189, 255, 0.6);
+    outline: none;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: white;
+    width: 100%;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    box-shadow: 0 4px 8px rgba(40, 167, 69, 0.2);
+}
+
+.btn-info {
+    background-color: #17a2b8;
+    color: white;
+}
+
+.btn-info:hover {
+    background-color: #138496;
+    box-shadow: 0 4px 8px rgba(23, 162, 184, 0.2);
+}
+
+.filter_label {
+    display: block;
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.form_field, .slider {
+    margin-bottom: 15px;
+}
+
+select.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    background-color: #ffffff;
+}
+
+select.form-control:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 8px rgba(128, 189, 255, 0.6);
+    outline: none;
+}
+
+.slider label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+.slider input[type="range"] {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.output {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+hr {
+    border-top: 2px solid #ccc;
+    margin: 15px 0;
+}
+
+
+#category,#type,#dropdown1,#a{
+    background-color: var(--first-color);
+    color:var(--font-color);
+}
+
+#search-input,#search-input::placeholder{
+    background-color: var(--third-color);
+    color:var(--font-color);
+}
+
+
+/* add listning */
+.list_adds {
+    background-color: var(--background-color);
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.table-data {
+    color: black;
+}
+
+
+.fa-heart {
+    font-size: 30px;
+    color: #90EE90;
+}
+
+.fa-heart:hover {
+    font-size: 33px;
+    color: #008000;
+}
+
+.img-fluid rounded-start {
+    width: 150%;
+    height: 400px;
+    object-fit: contain;
+    
+}
+
+
+/* Calculator */
+.calculator1 {
+    margin-top: 20px;
+    background-color: var(--first-color);
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#popup,#interest_period,#term_period,#interest_rate,#term,#loan_amount{
+    background-color: var(--first-color);
+    color:var(--font-color);
+}
+
+#noTerms,#intRate,#amountLoan{
+    color:white;
+}
+
+.calculator-form {
+    max-width: 250px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: #262626;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+.calculator-form label {
+    display: block;
+    margin: 10px 0 5px;
+    font-size: 14px;
+}
+
+.calculator-form input[type="number"],
+.calculator-form select {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 14px;
+    background-color: #fff;
+    color: #333;
+}
+
+.calculate{
+    width: 100%;
+    padding: 10px;
+    margin: 15px 0;
+    background-color: darksalmon;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 14px;
+}
+
+.calculate:hover {
+    background-color: orange;
+}
+
+.result {
+    position: relative;
+}
+
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.popup-content {
+    text-align: center;
+}
+
+.popup img {
+    width: 100px;
+}
+
+.popup .ok {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.popup .ok:hover {
+    background-color: #0056b3;
+}
+
+.btn5 {
+    
+    color: var(--first-color);
+    background-color: var(--main-color);
+    padding:10px 40px 10px 40px;
+    border-radius: 20px 20px 20px 20px;
+    color:white;
+    text-decoration: none;
+}
+
+.btn2 {
+    background: none;
+    border: none;
+    font-size: 1.3rem;
+    float: right;
+}
+
+.btn2:hover {
+    color: var(--main-color);
+}
+.btn5:hover {
+    
+    color: var(--first-color);
+    background-color: DarkGreen   ;
+    padding:10px 40px 10px 40px;
+    border-radius: 20px 20px 20px 20px;
+    color:white;
+    text-decoration: none;
+}
+

@@ -1,0 +1,671 @@
+INSERT INTO town (district, town) VALUES
+  ("Badulla", "Mahiyanganaya"),
+  ("Badulla", "Diyatalawa"),
+  ("Badulla", "Hali-Ela"),
+  ("Badulla", "Ella"),
+  ("Badulla", "Haldummulla"),
+  ("Badulla", "Beragala"),
+  ("Badulla", "Welimada"),
+  ("Badulla", "Kandaketiya"),
+  ("Badulla", "Meegahakivula"),
+  ("Badulla", "Passara"),
+  ("Badulla", "Lunugala"),
+  ("Badulla", "Tennapanguwa"),
+  ("Badulla", "Kumarapattiya"),
+  ("Badulla", "Haputale"),
+  ("Badulla", "Badulla"),
+  ("Badulla", "Bandarawela");
+
+INSERT INTO town (district, town) VALUES
+  ("Colombo", "Colombo"),
+  ("Colombo", "Dehiwala-Mount Lavinia"),
+  ("Colombo", "Homagama"),
+  ("Colombo", "Kaduwela"),
+  ("Colombo", "Kesbewa"),
+  ("Colombo", "Kolonnawa"),
+  ("Colombo", "Maharagama"),
+  ("Colombo", "Moratuwa"),
+  ("Colombo", "Padukka"),
+  ("Colombo", "Ratmalana"),
+  ("Colombo", "Seethawaka"),
+  ("Colombo", "Sri Jayawardenepura Kotte"),
+  ("Colombo", "Thimbirigasyaya");
+
+INSERT INTO town (district, town) VALUES
+  ("Ampara", "Addalaichchenai"),
+  ("Ampara", "Akkaraipattu"),
+  ("Ampara", "Alayadivembu"),
+  ("Ampara", "Ampara (Namal Oya)"),
+  ("Ampara", "Damana"),
+  ("Ampara", "Dehiattakandiya"),
+  ("Ampara", "Irakkamam (Eragama)"),
+  ("Ampara", "Kalmunai (Muslim)"),
+  ("Ampara", "Kalmunai (Tamil)"),
+  ("Ampara", "Karaitivu"),
+  ("Ampara", "Lahugala"),
+  ("Ampara", "Maha Oya"),
+  ("Ampara", "Navithanveli"),
+  ("Ampara", "Nintavur"),
+  ("Ampara", "Padiyathalawa"),
+  ("Ampara", "Pottuvil"),
+  ("Ampara", "Sainthamaruthu"),
+  ("Ampara", "Sammanthurai"),
+  ("Ampara", "Thirukkovil"),
+  ("Ampara", "Uhana");
+
+INSERT INTO town (district, town) VALUES
+  ("Anuradhapura", "Anuradhapura"),
+  ("Anuradhapura", "Bulnewa"),
+  ("Anuradhapura", "Eppawala"),
+  ("Anuradhapura", "Galenbindunuwewa"),
+  ("Anuradhapura", "Galnewa"),
+  ("Anuradhapura", "Ganewalpola"),
+  ("Anuradhapura", "Habarana"),
+  ("Anuradhapura", "Horowupotana"),
+  ("Anuradhapura", "Kahatagasdigiliya"),
+  ("Anuradhapura", "Kebitigollawa"),
+  ("Anuradhapura", "Kekirawa"),
+  ("Anuradhapura", "Konapathirawa"),
+  ("Anuradhapura", "Konwewa"),
+  ("Anuradhapura", "Madatugama"),
+  ("Anuradhapura", "Mahailuppallama"),
+  ("Anuradhapura", "Maradankadawala"),
+  ("Anuradhapura", "Medawachchiya"),
+  ("Anuradhapura", "Mihintale"),
+  ("Anuradhapura", "Nochchiyagama"),
+  ("Anuradhapura", "Nachchaduwa"),
+  ("Anuradhapura", "Padawiya"),
+  ("Anuradhapura", "Palugaswewa"),
+  ("Anuradhapura", "Rambewa"),
+  ("Anuradhapura", "Seeppukulama"),
+  ("Anuradhapura", "Talawa"),
+  ("Anuradhapura", "Tambuttegama"),
+  ("Anuradhapura", "Thirappane"),
+  ("Anuradhapura", "Yakalla");
+
+INSERT INTO town (district, town) VALUES
+  ("Batticaloa", "Chenkalady"),
+  ("Batticaloa", "Eravur"),
+  ("Batticaloa", "Kattankudy"),
+  ("Batticaloa", "Valaichchenai"),
+  ("Batticaloa", "Pasikudah"),
+  ("Batticaloa", "Vakarai"),
+  ("Batticaloa", "Kiran"),
+  ("Batticaloa", "Oddamavadi"),
+  ("Batticaloa", "Batticaloa"),
+  ("Batticaloa", "Araiyampathy"),
+  ("Batticaloa", "Kaluvanchikudy"),
+  ("Batticaloa", "Kokkadichcholai"),
+  ("Batticaloa", "Vavunathivu"),
+  ("Batticaloa", "Vellavely");
+
+
+INSERT INTO town (district, town) VALUES
+  ("Galle", "Galle"),
+  ("Galle", "Karapitiya"),
+  ("Galle", "Unawatuna"),
+  ("Galle", "Hikkaduwa"),
+  ("Galle", "Ahangama"),
+  ("Galle", "Ahungalla"),
+  ("Galle", "Ambalangoda"),
+  ("Galle", "Baddegama"),
+  ("Galle", "Balapitiya"),
+  ("Galle", "Batapola"),
+  ("Galle", "Bentota"),
+  ("Galle", "Boossa"),
+  ("Galle", "Elpitiya"),
+  ("Galle", "Habaraduwa"),
+  ("Galle", "Hiniduma"),
+  ("Galle", "Imaduwa"),
+  ("Galle", "Karandeniya"),
+  ("Galle", "Koggala"),
+  ("Galle", "Kosgoda"),
+  ("Galle", "Mapalagama"),
+  ("Galle", "Nagoda"),
+  ("Galle", "Neluwa"),
+  ("Galle", "Pitigala"),
+  ("Galle", "Rathgama"),
+  ("Galle", "Thawalama"),
+  ("Galle", "Udugama"),
+  ("Galle", "Uragasmanhandiya"),
+  ("Galle", "Wanduramba"),
+  ("Galle", "Yakkalamulla");
+
+
+INSERT INTO town (district, town) VALUES
+  ("Gampaha", "Nittambuwa"),
+  ("Gampaha", "Biyagama"),
+  ("Gampaha", "Divulapitiya"),
+  ("Gampaha", "Kiridiwela"),
+  ("Gampaha", "Gampaha"),
+  ("Gampaha", "Ja-Ela"),
+  ("Gampaha", "Katana"),
+  ("Gampaha", "Kelaniya"),
+  ("Gampaha", "Mahara"),
+  ("Gampaha", "Minuwangoda"),
+  ("Gampaha", "Mirigama"),
+  ("Gampaha", "Negombo"),
+  ("Gampaha", "Wattala");
+
+INSERT INTO town (district, town) VALUES
+  ("Hambantota", "Hambantota"),
+  ("Hambantota", "Tangalle"),
+  ("Hambantota", "Ambalantota"),
+  ("Hambantota", "Beliatta"),
+  ("Hambantota", "Tissamaharama"),
+  ("Hambantota", "Middeniya"),
+  ("Hambantota", "Angunukolapelessa"),
+  ("Hambantota", "Walasmulla"),
+  ("Hambantota", "Weeraketiya");
+
+
+INSERT INTO town (district, town) VALUES
+  ("Jaffna", "Jaffna"),
+  ("Jaffna", "Kayts"),
+  ("Jaffna", "Velanai"),
+  ("Jaffna", "Karainagar"),
+  ("Jaffna", "Nallur"),
+  ("Jaffna", "Chavakachcheri"),
+  ("Jaffna", "Maruthankerney"),
+  ("Jaffna", "Point Pedro"),
+  ("Jaffna", "Karaveddy"),
+  ("Jaffna", "Kopay"),
+  ("Jaffna", "Tellippalai"),
+  ("Jaffna", "Uduvil"),
+  ("Jaffna", "Sandilipay"),
+  ("Jaffna", "Chankanai");
+
+
+INSERT INTO town (district, town) VALUES
+  ("Kalutara", "Agalawatta"),
+  ("Kalutara", "Bandaragama"),
+  ("Kalutara", "Beruwala"),
+  ("Kalutara", "Bulathsinhala"),
+  ("Kalutara", "Dodangoda"),
+  ("Kalutara", "Horana"),
+  ("Kalutara", "Ingiriya"),
+  ("Kalutara", "Kalutara"),
+  ("Kalutara", "Madurawela"),
+  ("Kalutara", "Matugama"),
+  ("Kalutara", "Millaniya"),
+  ("Kalutara", "Palindanuwara"),
+  ("Kalutara", "Panadura"),
+  ("Kalutara", "Walallavita");
+
+
+INSERT INTO town (district, town) VALUES
+  ("Kandy", "Peradeniya"),
+  ("Kandy", "Katugastota"),
+  ("Kandy", "Pallekele"),
+  ("Kandy", "Gampola UC"),
+  ("Kandy", "Nawalapitiya UC"),
+  ("Kandy", "Akurana"),
+  ("Kandy", "Alawatugoda"),
+  ("Kandy", "Ankubura"),
+  ("Kandy", "Ambatenna"),
+  ("Kandy", "Daskara"),
+  ("Kandy", "Daulagala"),
+  ("Kandy", "Galagedara"),
+  ("Kandy", "Galhinna"),
+  ("Kandy", "Gelioya"),
+  ("Kandy", "Hanguranketa"),
+  ("Kandy", "Hapugastalawa"),
+  ("Kandy", "Kadugannawa UC"),
+  ("Kandy", "Kundasale"),
+  ("Kandy", "Madawala"),
+  ("Kandy", "Menikdiwela"),
+  ("Kandy", "Pilimatalawa"),
+  ("Kandy", "Pussellawa"),
+  ("Kandy", "Talatuoya"),
+  ("Kandy", "Teldeniya"),
+  ("Kandy", "Ulapane"),
+  ("Kandy", "Watadeniya"),
+  ("Kandy", "Wattegama UC"),
+  ("Kandy", "Welamboda"),
+  ("Kandy", "Weligalla"),
+  ("Kandy", "Udadumbara");
+
+
+INSERT INTO town (district, town) VALUES
+  ("Kegalle", "Ambepussa"),
+  ("Kegalle", "Aranayaka"),
+  ("Kegalle", "Bulathkohupitiya"),
+  ("Kegalle", "Dehiovita"),
+  ("Kegalle", "Deraniyagala"),
+  ("Kegalle", "Galigamuwa"),
+  ("Kegalle", "Hemmathagama"),
+  ("Kegalle", "Karawanella"),
+  ("Kegalle", "Kitulgala"),
+  ("Kegalle", "Kotiyakumbura"),
+  ("Kegalle", "Mawanella"),
+  ("Kegalle", "Rambukkana"),
+  ("Kegalle", "Ruwanwella"),
+  ("Kegalle", "Thalgaspitiya"),
+  ("Kegalle", "Warakapola"),
+  ("Kegalle", "Yatiyanthota"),
+  ("Kegalle", "Ganthuna");
+
+INSERT INTO town (district, town) VALUES
+  ("Kilinochchi", "Kandavalai"),
+  ("Kilinochchi", "Kilinochchi"),
+  ("Kilinochchi", "Pallai"),
+  ("Kilinochchi", "Poonakary");
+
+INSERT INTO town (district, town) VALUES
+  ("Kurunegala", "Kurunegala"),
+  ("Kurunegala", "Kuliyapitiya"),
+  ("Kurunegala", "Girathalana"),
+  ("Kurunegala", "Panagamuwa"),
+  ("Kurunegala", "Narammala"),
+  ("Kurunegala", "Wariyapola"),
+  ("Kurunegala", "Nikaweratiya"),
+  ("Kurunegala", "Pannala"),
+  ("Kurunegala", "Galgamuwa"),
+  ("Kurunegala", "Gomugomuwa"),
+  ("Kurunegala", "Polgahawela"),
+  ("Kurunegala", "Maho"),
+  ("Kurunegala", "Alawwa"),
+  ("Kurunegala", "Ibbagamuwa"),
+  ("Kurunegala", "Giriulla"),
+  ("Kurunegala", "Hiripitiya"),
+  ("Kurunegala", "Dandagamuwa"),
+  ("Kurunegala", "Dambadeniya"),
+  ("Kurunegala", "Melsiripura"),
+  ("Kurunegala", "Hettipola"),
+  ("Kurunegala", "Panduwasnuwara"),
+  ("Kurunegala", "Potuhera"),
+  ("Kurunegala", "Mawathagama"),
+  ("Kurunegala", "Yapahuwa"),
+  ("Kurunegala", "Bingirya"),
+  ("Kurunegala", "Pannawa"),
+  ("Kurunegala", "Ridigama");
+
+
+
+INSERT INTO town (district, town) VALUES
+  ("Mannar", "Madhu"),
+  ("Mannar", "Mannar"),
+  ("Mannar", "Manthai West"),
+  ("Mannar", "Musali"),
+  ("Mannar", "Nanaddan");
+
+
+INSERT INTO town (district, town) VALUES
+  ("Matale", "Matale"),
+  ("Matale", "Dambulla"),
+  ("Matale", "Galewela"),
+  ("Matale", "Naula"),
+  ("Matale", "Pallepola"),
+  ("Matale", "Rattota"),
+  ("Matale", "Ukuwela"),
+  ("Matale", "Yatawatta"),
+  ("Matale", "Nagolla"),
+  ("Matale", "Kubiyangoda"),
+  ("Matale", "Gammaduwa"),
+  ("Matale", "Elkaduwa"),
+  ("Matale", "Kaikawala"),
+  ("Matale", "Nalanda"),
+  ("Matale", "Palapathwela"),
+  ("Matale", "Sigiriya"),
+  ("Matale", "Wahacotte"),
+  ("Matale", "Wehera"),
+  ("Matale", "Maligatenna"),
+  ("Matale", "Kawatayamuna"),
+  ("Matale", "Kandalama");
+
+
+INSERT INTO town (district, town) VALUES
+  ("Matara", "Akuressa"),
+  ("Matara", "Athuraliya"),
+  ("Matara", "Devinuwara"),
+  ("Matara", "Dickwella"),
+  ("Matara", "Hakmana"),
+  ("Matara", "Kamburupitiya"),
+  ("Matara", "Kirinda Puhuwella"),
+  ("Matara", "Kotapola"),
+  ("Matara", "Malimbada"),
+  ("Matara", "Matara"),
+  ("Matara", "Mulatiyana"),
+  ("Matara", "Pasgoda"),
+  ("Matara", "Pitabeddara"),
+  ("Matara", "Thihagoda"),
+  ("Matara", "Weligama"),
+  ("Matara", "Welipitiya");
+
+INSERT INTO town (district, town) VALUES
+  ("Monaragala", "Monaragala"),
+  ("Monaragala", "Bibile"),
+  ("Monaragala", "Buttala"),
+  ("Monaragala", "Wellawaya"),
+  ("Monaragala", "Kataragama"),
+  ("Monaragala", "Siyambalanduwa"),
+  ("Monaragala", "Medagama"),
+  ("Monaragala", "Thanamalvila"),
+  ("Monaragala", "Badalkubura"),
+  ("Monaragala", "Sevanagala"),
+  ("Monaragala", "Madulla"),
+  ("Monaragala", "Ethimale"),
+  ("Monaragala", "Thanamalwila"),
+  ("Monaragala", "Badalkumbura"),
+  ("Monaragala", "Okkampitiya");
+
+
+
+INSERT INTO town (district, town) VALUES
+  ("Mullaitivu", "Pandiyankulam"),
+  ("Mullaitivu", "Mullaitivu"),
+  ("Mullaitivu", "Oddusuddan"),
+  ("Mullaitivu", "Puthukkudiyiruppu"),
+  ("Mullaitivu", "Thunukkai"),
+  ("Mullaitivu", "Ehatugaswewa");
+
+
+INSERT INTO town (district, town) VALUES
+  ("Nuwara Eliya", "Agrapatana"),
+  ("Nuwara Eliya", "Ambewela"),
+  ("Nuwara Eliya", "Bogawantalawa"),
+  ("Nuwara Eliya", "Bopattalawa"),
+  ("Nuwara Eliya", "Dayagama Bazaar"),
+  ("Nuwara Eliya", "Ginigathena"),
+  ("Nuwara Eliya", "Hapugastalawa"),
+  ("Nuwara Eliya", "Haggala"),
+  ("Nuwara Eliya", "Hanguranketha"),
+  ("Nuwara Eliya", "Hatton-Dikoya UC"),
+  ("Nuwara Eliya", "Kotagala"),
+  ("Nuwara Eliya", "Kotmale"),
+  ("Nuwara Eliya", "Labukele"),
+  ("Nuwara Eliya", "Laxapana"),
+  ("Nuwara Eliya", "Lindula-Talawakele UC"),
+  ("Nuwara Eliya", "Maskeliya"),
+  ("Nuwara Eliya", "Nildandahinna"),
+  ("Nuwara Eliya", "Nuwara Eliya"),
+  ("Nuwara Eliya", "Nanu Oya"),
+  ("Nuwara Eliya", "Norton Bridge"),
+  ("Nuwara Eliya", "Padiyapelella"),
+  ("Nuwara Eliya", "Ramboda"),
+  ("Nuwara Eliya", "Ragala"),
+  ("Nuwara Eliya", "Rikillagaskada"),
+  ("Nuwara Eliya", "Rozella"),
+  ("Nuwara Eliya", "Udapussallawa"),
+  ("Nuwara Eliya", "Walapane"),
+  ("Nuwara Eliya", "Watawala"),
+  ("Nuwara Eliya", "Norton"),
+  ("Nuwara Eliya", "Koththallena"),
+  ("Nuwara Eliya", "Pundaluoya"),
+  ("Nuwara Eliya", "Kandapola"),
+  ("Nuwara Eliya", "Pattipola");
+
+INSERT INTO town (district, town) VALUES
+  ("Polonnaruwa", "Thamankaduwa"),
+  ("Polonnaruwa", "Hingurakgoda"),
+  ("Polonnaruwa", "Medirigiriya"),
+  ("Polonnaruwa", "Lankapura"),
+  ("Polonnaruwa", "Welikanda"),
+  ("Polonnaruwa", "Dimbulagala"),
+  ("Polonnaruwa", "Elahera");
+
+INSERT INTO town (district, town) VALUES
+  ("Puttalam", "Puttalam"),
+  ("Puttalam", "Chilaw"),
+  ("Puttalam", "Anamaduwa"),
+  ("Puttalam", "Battuluoya"),
+  ("Puttalam", "Dankotuwa"),
+  ("Puttalam", "Eluvankulam"),
+  ("Puttalam", "Kalpitiya"),
+  ("Puttalam", "Madampe"),
+  ("Puttalam", "Mahawewa"),
+  ("Puttalam", "Marawila"),
+  ("Puttalam", "Mundel"),
+  ("Puttalam", "Nattandiya"),
+  ("Puttalam", "Nuraicholai"),
+  ("Puttalam", "Palavi"),
+  ("Puttalam", "Thillayadi"),
+  ("Puttalam", "Wennappuwa"),
+  ("Puttalam", "Katuneriya"),
+  ("Puttalam", "Nainamadama");
+
+
+
+INSERT INTO town (district, town)
+VALUES
+  ("Ratnapura", "Balangoda"),
+  ("Ratnapura", "Embilipitiya"),
+  ("Ratnapura", "Rakwana"),
+  ("Ratnapura", "Pelmadulla"),
+  ("Ratnapura", "Kuruwita"),
+  ("Ratnapura", "Imbulpe"),
+  ("Ratnapura", "Godakawela"),
+  ("Ratnapura", "Kahawatta"),
+  ("Ratnapura", "Eheliyagoda"),
+  ("Ratnapura", "Weligepola"),
+  ("Ratnapura", "Nivitigala"),
+  ("Ratnapura", "Ayagama"),
+  ("Ratnapura", "Kalawana"),
+  ("Ratnapura", "Kolonna"),
+  ("Ratnapura", "Panamure"),
+  ("Ratnapura", "Pohorabawa"),
+  ("Ratnapura", "Pallebedda"),
+  ("Ratnapura", "Udawalawe");
+
+
+INSERT INTO town (district, town)
+VALUES
+  ("Trincomalee", "Gomarankadawala"),
+  ("Trincomalee", "Kantalai"),
+  ("Trincomalee", "Kinniya"),
+  ("Trincomalee", "Kuchchaveli"),
+  ("Trincomalee", "Morawewa"),
+  ("Trincomalee", "Muttur"),
+  ("Trincomalee", "Padavi Siripura"),
+  ("Trincomalee", "Seruvila"),
+  ("Trincomalee", "Thampalakamam"),
+  ("Trincomalee", "Trincomalee Town & Gravets"),
+  ("Trincomalee", "Verugal & Eachchalampattu");
+
+
+
+INSERT INTO town (district, town)
+VALUES
+  ("Vavuniya", "Vavuniya"),
+  ("Vavuniya", "Nedunkerny"),
+  ("Vavuniya", "Cheddikulam");
+
+
+
+INSERT INTO registered_user (nic, name, email, contact_No, address, password, verification_doc, town_id, role, status) VALUES
+('201234567890', 'John Doe', 'johndoe@example.com', 1234567890, '123 Elm Street', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 57, 'customer', 'No Issues'),
+('201234567891', 'Jane Smith', 'janesmith@example.com', 1234567891, '456 Oak Avenue', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 103, 'customer', 'No Issues'),
+('201234567892', 'Michael Brown', 'michaelbrown@example.com', 1234567892, '789 Pine Road', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 200, 'customer', 'No Issues'),
+('201234567893', 'Emily Davis', 'emilydavis@example.com', 1234567893, '321 Maple Drive', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 345, 'admin', 'No Issues'),
+('201234567894', 'David Wilson', 'davidwilson@example.com', 1234567894, '654 Birch Lane', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 78, 'customer', 'No Issues'),
+('201234567895', 'Sophia Martinez', 'sophiamartinez@example.com', 1234567895, '987 Cedar Street', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 290, 'customer', 'No Issues'),
+('201234567896', 'James Anderson', 'jamesanderson@example.com', 1234567896, '147 Spruce Court', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 185, 'customer', 'No Issues'),
+('201234567897', 'Olivia Taylor', 'oliviataylor@example.com', 1234567897, '258 Fir Boulevard', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 22, 'customer', 'No Issues'),
+('201234567898', 'William Thomas', 'williamthomas@example.com', 1234567898, '369 Hemlock Way', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 303, 'customer', 'No Issues'),
+('201234567899', 'Isabella Lee', 'isabellalee@example.com', 1234567899, '741 Willow Road', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 89, 'admin', 'No Issues'),
+('201234567900', 'Benjamin Harris', 'benjaminharris@example.com', 1234567900, '852 Walnut Avenue', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 250, 'customer', 'No Issues'),
+('201234567901', 'Mia Clark', 'miaclark@example.com', 1234567901, '963 Palm Street', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 132, 'customer', 'No Issues'),
+('201234567902', 'Lucas Lewis', 'lucaslewis@example.com', 1234567902, '174 Redwood Drive', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 60, 'customer', 'No Issues'),
+('201234567903', 'Charlotte Robinson', 'charlotterobinson@example.com', 1234567903, '285 Ash Lane', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 199, 'customer', 'No Issues'),
+('201234567904', 'Henry Walker', 'henrywalker@example.com', 1234567904, '396 Cherry Court', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 360, 'customer', 'No Issues'),
+('201234567905', 'Amelia Hall', 'ameliahall@example.com', 1234567905, '507 Beech Road', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 118, 'customer', 'No Issues'),
+('201234567906', 'Alexander Young', 'alexanderyoung@example.com', 1234567906, '618 Poplar Avenue', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 280, 'customer', 'No Issues'),
+('201234567907', 'Ava King', 'avaking@example.com', 1234567907, '729 Magnolia Street', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 156, 'admin', 'No Issues'),
+('201234567908', 'Daniel Hernandez', 'danielhernandez@example.com', 1234567908, '840 Cypress Way', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 307, 'customer', 'No Issues'),
+('201234567909', 'Abigail Scott', 'abigailscott@example.com', 1234567909, '951 Dogwood Boulevard', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 95, 'customer', 'No Issues');
+
+
+
+INSERT INTO pending_user_approval (nic, name, email, contact_No, address, password, verification_doc, town_id, role) VALUES
+('202345678901', 'Ethan Moore', 'ethanmoore@example.com', 2345678901, '123 Ivy Street', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 45, 'customer'),
+('202345678902', 'Liam Garcia', 'liamgarcia@example.com', 2345678902, '456 Jasmine Road', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 192, 'customer'),
+('202345678903', 'Noah Martinez', 'noahmartinez@example.com', 2345678903, '789 Honeysuckle Lane', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 331, 'customer'),
+('202345678904', 'Oliver Wilson', 'oliverwilson@example.com', 2345678904, '321 Azalea Avenue','$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 120, 'customer'),
+('202345678905', 'Elijah Anderson', 'elijahaanderson@example.com', 2345678905, '654 Marigold Drive', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 278, 'customer'),
+('202345678906', 'Lucas Thomas', 'lucasthomas@example.com', 2345678906, '987 Lilac Street', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 58, 'customer'),
+('202345678907', 'Mason Jackson', 'masonjackson@example.com', 2345678907, '147 Tulip Court', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 145, 'customer'),
+('202345678908', 'Logan White', 'loganwhite@example.com', 2345678908, '258 Daffodil Boulevard', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 305, 'customer'),
+('202345678909', 'James Harris', 'jamesharris@example.com', 2345678909, '369 Hyacinth Way', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 100, 'customer'),
+('202345678910', 'Alexander Clark', 'alexanderclark@example.com', 2345678910, '741 Sunflower Road', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 251, 'customer'),
+('202345678911', 'Benjamin Lewis', 'benjaminlewis@example.com', 2345678911, '852 Poppy Avenue', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 17, 'customer'),
+('202345678912', 'Henry Lee', 'henrylee@example.com', 2345678912, '963 Dahlia Street', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 180, 'customer'),
+('202345678913', 'Jacob Walker', 'jacobwalker@example.com', 2345678913, '174 Rose Drive', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 345, 'customer'),
+('202345678914', 'Sebastian Hall', 'sebastianhall@example.com', 2345678914, '285 Lotus Lane','$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 200, 'customer'),
+('202345678915', 'Jack Young', 'jackyoung@example.com', 2345678915, '396 Orchid Court', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 90, 'customer');
+
+INSERT INTO registered_user (nic, name, email, contact_No, address, password, verification_doc, town_id, role, status) VALUES
+('202345678916', 'William Adams', 'williamadams@example.com', 2345678916, '107 Iris Avenue', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 210, 'customer', 'Blacklisted'),
+('202345678917', 'Michael King', 'michaelking@example.com', 2345678917, '218 Primrose Way', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 122, 'customer', 'Blacklisted'),
+('202345678918', 'Daniel Wright', 'danielwright@example.com', 2345678918, '329 Daisy Lane', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 89, 'customer', 'Blacklisted'),
+('202345678919', 'Matthew Scott', 'matthewscott@example.com', 2345678919, '430 Clover Street', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 156, 'customer', 'Blacklisted'),
+('202345678920', 'Joseph Green', 'josephgreen@example.com', 2345678920, '541 Buttercup Road', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 250, 'customer', 'Blacklisted'),
+('202345678921', 'David Hill', 'davidhill@example.com', 2345678921, '652 Gardenia Boulevard', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 102, 'customer', 'Blacklisted'),
+('202345678922', 'Samuel Baker', 'samuelbaker@example.com', 2345678922, '763 Zinnia Drive', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 344, 'customer', 'Blacklisted'),
+('202345678923', 'Christopher Edwards', 'christopheredwards@example.com', 2345678923, '874 Magnolia Court', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 176, 'customer', 'Blacklisted'),
+('202345678924', 'Andrew Morris', 'andrewmorris@example.com', 2345678924, '985 Heather Street', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 291, 'customer', 'Blacklisted'),
+('202345678925', 'Joshua Foster', 'joshuafoster@example.com', 2345678925, '109 Tulip Boulevard', '$2y$10$nnAQmpRYxN3.JDLgkzMY/OzcwAv6g.vOzOayQGBDXQUESzIIMM2rG', NULL, 33, 'customer', 'Blacklisted');
+
+
+
+INSERT INTO advertisement (nic, town_id, land_Area, longitude, latitude, contact_No, price, type, description, title, category, no_of_bedrooms, no_of_bathrooms, no_of_floors, floor_area) VALUES
+('201234567897', 345, '10 perches', 80.7000, 7.3000, 1234567897, 2500000, 'House', 'Spacious house with garden', 'Beautiful House', 'Fixed', 3, 2, 2, '2000 sq ft'),
+('201234567890', 103, '15 perches', 80.7500, 7.2500, 1234567890, 3000000, 'House', 'Modern house with all amenities', 'Modern House', 'Auction', 4, 3, 2, '2500 sq ft'),
+('201234567902', 200, '20 perches', 80.8000, 7.2000, 1234567892, 5000000, 'House', 'Luxury house with pool', 'Luxury House', 'Fixed', 5, 4, 3, '4000 sq ft'),
+('201234567894', 78, '30 perches', 80.8500, 7.1500, 1234567894, 1500000, 'Land', 'Prime land in city center', 'City Center Land', 'Rent', NULL, NULL, NULL, NULL),
+('201234567899', 290, '5 acres', 80.9000, 7.1000, 1234567899, 10000000, 'Land', 'Agricultural land', 'Farm Land', 'Fixed', NULL, NULL, NULL, NULL),
+('201234567909', 132, '50 perches', 80.9500, 7.0500, 1234567909, 4000000, 'House', 'Cozy house near the beach', 'Beach House', 'Auction', 3, 2, 1, '1800 sq ft'),
+('201234567891', 60, '10 acres', 81.0000, 7.0000, 1234567891, 20000000, 'Land', 'Large land suitable for development', 'Development Land', 'Fixed', NULL, NULL, NULL, NULL),
+('201234567905', 278, '100 perches', 81.0500, 6.9500, 1234567905, 8000000, 'Land', 'Scenic land with mountain views', 'Scenic Land', 'Auction', NULL, NULL, NULL, NULL),
+('201234567901', 331, '3 acres', 81.1000, 6.9000, 1234567901, 15000000, 'Land', 'Land with potential for resort', 'Resort Land', 'Fixed', NULL, NULL, NULL, NULL),
+('201234567907', 45, '25 perches', 81.1500, 6.8500, 1234567907, 3500000, 'House', 'House with beautiful garden', 'Garden House', 'Rent', 4, 3, 2, '3000 sq ft'),
+('201234567896', 120, '60 perches', 81.2000, 6.8000, 1234567896, 9000000, 'Land', 'Commercial land in prime location', 'Commercial Land', 'Auction', NULL, NULL, NULL, NULL),
+('201234567903', 100, '2 acres', 81.2500, 6.7500, 1234567903, 7000000, 'Land', 'Land suitable for factory', 'Factory Land', 'Fixed', NULL, NULL, NULL, NULL),
+('201234567892', 58, '8 perches', 81.3000, 6.7000, 1234567892, 2000000, 'House', 'Affordable house in suburb', 'Suburban House', 'Rent', 3, 2, 1, '1500 sq ft'),
+('201234567900', 145, '12 perches', 81.3500, 6.6500, 1234567900, 2800000, 'House', 'House with modern amenities', 'Modern Amenities House', 'Fixed', 4, 3, 2, '2200 sq ft'),
+('201234567906', 305, '6 acres', 81.4000, 6.6000, 1234567906, 12000000, 'Land', 'Land for agricultural purposes', 'Agricultural Land', 'Auction', NULL, NULL, NULL, NULL),
+('201234567895', 251, '75 perches', 81.4500, 6.5500, 1234567895, 6500000, 'Land', 'Land with river frontage', 'Riverfront Land', 'Fixed', NULL, NULL, NULL, NULL),
+('201234567898', 90, '10 perches', 81.5000, 6.5000, 1234567898, 2400000, 'House', 'Compact house in quiet neighborhood', 'Compact House', 'Auction', 2, 1, 1, '1200 sq ft'),
+('201234567908', 17, '1 acre', 81.5500, 6.4500, 1234567908, 4500000, 'Land', 'Land with sea view', 'Seaview Land', 'Rent', NULL, NULL, NULL, NULL),
+('201234567893', 345, '40 perches', 81.6000, 6.4000, 1234567893, 6000000, 'Land', 'Land with easy access to highway', 'Highway Access Land', 'Fixed', NULL, NULL, NULL, NULL),
+('201234567904', 192, '20 perches', 81.6500, 6.3500, 1234567894, 5000000, 'House', 'Elegant house with pool', 'Elegant House', 'Fixed', 5, 4, 3, '3500 sq ft');
+
+INSERT INTO bids (ad_id, verify_doc, end_time, min_auc_price, current_bid, number_of_bids) VALUES
+(2, NULL, '2024-12-08 13:00:00', 1800000, 2000000, 8),
+(6, NULL, '2024-12-10 17:00:00', 1000000, 1100000, 5),
+(8, NULL, '2024-12-12 19:00:00', 1500000, 1700000, 6),
+(11, NULL, '2024-12-09 15:00:00', 2200000, 2500000, 4),
+(15, NULL, '2024-12-14 21:00:00', 3000000, 3200000, 3),
+(17, NULL, '2024-12-06 22:00:00', 2500000, 2700000, 3);
+
+
+INSERT INTO bidder (ad_id, nic, previous_bidder, previous_bidder_email, current_bidder_email) VALUES
+(2, '201234567897', '201234567890', 'johndoe@example.com', 'janesmith@example.com'),
+(6, '201234567902', '201234567894', 'davidwilson@example.com', 'sophiamartinez@example.com'),
+(8, '201234567894', '201234567899', 'jamesanderson@example.com', 'oliviataylor@example.com'),
+(11, '201234567909', '201234567891', 'benjaminharris@example.com', 'miaclark@example.com'),
+(15, '201234567895', '201234567898', 'avaking@example.com', 'danielhernandez@example.com'),
+(17, '201234567907', '201234567896', 'danielhernandez@example.com', 'abigailscott@example.com');
+
+
+INSERT INTO wishlist (nic, ad_id) VALUES
+('201234567897', 1),
+('201234567890', 2),
+('201234567902', 3),
+('201234567894', 4),
+('201234567899', 5),
+('201234567909', 6),
+('201234567891', 7),
+('201234567905', 8),
+('201234567901', 9),
+('201234567907', 10),
+('201234567896', 11),
+('201234567903', 12),
+('201234567892', 13),
+('201234567900', 14),
+('201234567906', 15),
+('201234567895', 16),
+('201234567898', 17),
+('201234567908', 18),
+('201234567893', 19),
+('201234567904', 20),
+('201234567897', 2),
+('201234567890', 3),
+('201234567902', 4),
+('201234567894', 5),
+('201234567899', 6),
+('201234567909', 7),
+('201234567891', 8),
+('201234567905', 9),
+('201234567901', 10),
+('201234567907', 11),
+('201234567896', 12),
+('201234567903', 13),
+('201234567892', 14),
+('201234567900', 15),
+('201234567906', 16),
+('201234567895', 17),
+('201234567898', 18),
+('201234567908', 19),
+('201234567893', 20),
+('201234567904', 1),
+('201234567897', 3),
+('201234567890', 4),
+('201234567902', 5),
+('201234567894', 6),
+('201234567899', 7),
+('201234567909', 8),
+('201234567891', 9),
+('201234567905', 10),
+('201234567901', 11),
+('201234567907', 12),
+('201234567896', 13),
+('201234567903', 14),
+('201234567892', 15),
+('201234567900', 16),
+('201234567906', 17),
+('201234567895', 18),
+('201234567898', 19),
+('201234567908', 20);
+
+
+
+
+
+INSERT INTO pending_ad_approval (nic, town_id, land_Area, longitude, latitude, contact_No, price, type, description, title, category, no_of_bedrooms, no_of_bathrooms, no_of_floors, floor_area, end_time, min_auc_price, verify_doc, image1, image2, image3, image4, image5) VALUES
+('201234567897', 101, '20 perches', 80.1234, 6.9271, 771234567, 1500000, 'Land', 'A prime plot of land', 'Prime Land', 'Auction', NULL, NULL, NULL, NULL, '2024-08-15 10:00:00', 1000000, NULL, NULL, NULL, NULL, NULL, NULL),
+('201234567890', 205, '30 acres', 81.1234, 7.9271, 771234568, 3000000, 'Land', 'A large plot of agricultural land', 'Agricultural Land', 'Auction', NULL, NULL, NULL, NULL, '2024-08-16 11:00:00', 2500000, NULL, NULL, NULL, NULL, NULL, NULL),
+('201234567902', 310, '1500 sq ft', 79.8597, 6.8670, 771234569, 5000000, 'Apartment', 'A luxurious apartment in the city', 'Luxury Apartment', 'Auction', 3, 2, 1, '1500 sq ft', '2024-08-17 12:00:00', 4500000, NULL, NULL, NULL, NULL, NULL, NULL),
+('201234567894', 123, '25 perches', 80.0255, 6.9320, 771234570, 2000000, 'Land', 'A serene plot of land', 'Serene Land', 'Auction', NULL, NULL, NULL, NULL, '2024-08-18 13:00:00', 1500000, NULL, NULL, NULL, NULL, NULL, NULL),
+('201234567899', 301, '2000 sq ft', 80.2777, 6.8611, 771234571, 7000000, 'Commercial Properties', 'A commercial property in a prime location', 'Prime Commercial Property', 'Auction', NULL, NULL, 2, '2000 sq ft', '2024-08-19 14:00:00', 6500000, NULL, NULL, NULL, NULL, NULL, NULL),
+('201234567909', 99, '40 perches', 80.1234, 7.0000, 771234572, 2500000, 'Land', 'A beautiful plot of land', 'Beautiful Land', 'Auction', NULL, NULL, NULL, NULL, '2024-08-20 15:00:00', 2000000, NULL, NULL, NULL, NULL, NULL, NULL),
+('201234567891', 210, '500 sq ft', 79.8916, 6.9271, 771234573, 3500000, 'Apartment', 'A cozy apartment', 'Cozy Apartment', 'Auction', 2, 1, 1, '500 sq ft', '2024-08-21 16:00:00', 3000000, NULL, NULL, NULL, NULL, NULL, NULL),
+('201234567905', 150, '35 perches', 80.1321, 6.9350, 771234574, 2800000, 'Land', 'A spacious plot of land', 'Spacious Land', 'Auction', NULL, NULL, NULL, NULL, '2024-08-22 17:00:00', 2300000, NULL, NULL, NULL, NULL, NULL, NULL),
+('201234567901', 75, '1000 sq ft', 80.2777, 7.0000, 771234575, 6000000, 'House', 'A beautiful house', 'Beautiful House', 'Auction', 4, 3, 2, '1000 sq ft', '2024-08-23 18:00:00', 5500000, NULL, NULL, NULL, NULL, NULL, NULL),
+('201234567907', 401, '50 perches', 80.4321, 6.9340, 771234576, 3500000, 'Land', 'A large plot of land', 'Large Land', 'Auction', NULL, NULL, NULL, NULL, '2024-08-24 19:00:00', 3000000, NULL, NULL, NULL, NULL, NULL, NULL);
+
+
+
+INSERT INTO images (ad_id, image1, image2, image3, image4, image5)
+VALUES
+(1, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/1.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/1.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/1.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/1.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/1.5.png')),
+(2, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/2.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/2.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/2.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/2.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/2.5.png')),
+(3, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/3.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/3.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/3.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/3.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/3.5.png')),
+(4, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/4.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/4.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/4.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/4.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/4.5.png')),
+(5, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/5.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/5.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/5.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/5.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/5.5.png')),
+(6, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/6.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/6.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/6.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/6.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/6.5.png')),
+(7, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/7.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/7.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/7.3.png'),NULL,NULL),
+(8, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/8.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/8.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/8.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/8.4.png'),NULL),
+(9, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/9.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/9.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/9.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/9.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/9.5.png')),
+(10, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/10.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/10.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/10.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/10.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/10.5.png')),
+(11, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/11.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/11.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/11.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/11.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/11.5.png')),
+(12, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/12.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/12.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/12.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/12.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/12.5.png')),
+(13, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/13.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/13.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/13.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/13.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/13.5.png')),
+(14, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/14.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/14.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/14.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/14.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/14.5.png')),
+(15, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/15.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/15.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/15.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/15.4.png'),NULL),
+(16, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/16.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/16.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/16.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/16.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/16.5.png')),
+(17, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/17.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/17.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/17.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/17.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/17.5.png')),
+(18, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/18.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/18.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/18.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/18.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/18.5.png')),
+(19, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/19.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/19.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/19.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/19.4.png'),NULL),
+(20, LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/20.1.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/20.2.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/20.3.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/20.4.png'), LOAD_FILE('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/20.5.png'));
+
+

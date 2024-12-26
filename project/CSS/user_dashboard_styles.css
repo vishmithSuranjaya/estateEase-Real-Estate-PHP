@@ -1,0 +1,91 @@
+:root {
+    --main-color: rgb(0, 158, 96);
+    --first-color: #ebebeb;
+    --second-color: #099d02;
+    --third-color: #fff;
+    --font-color: black;
+    --hover-color: #099d02;
+    --background-color: #fff;
+    --btn-color: #099d02;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container3 {
+    background-color: var(--background-color);
+    display: flex;
+    flex: 1;
+    flex-direction: column; /* Default to column for mobile */
+    color: var(--font-color);
+}
+
+.sidebar {
+    background-color: var(--background-color);
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    width: 100%; /* Adjust width to take full height */
+}
+
+.sidebar .username {
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #2c3e50; /* Darker color for better readability */
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin: 10px 0;
+}
+
+.sidebar ul li a {
+    text-decoration: none;
+    color: #fff; /* White color for text to stand out on button */
+    display: block;
+    padding: 10px 15px; /* Padding to make it look like a button */
+    background-color: #3498db; /* Primary button color (blue) */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.sidebar ul li a:hover {
+    background-color: #2980b9; /* Darker blue on hover */
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+}
+
+.content h2 {
+    margin-top: 0;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+/* Media Queries for Responsive Design */
+
+@media (min-width: 768px) {
+    .container3 {
+        flex-direction: row; /* Row layout for tablets and above */
+    }
+    
+    .sidebar {
+        width: 220px; /* Fixed width for sidebar */
+    }
+}

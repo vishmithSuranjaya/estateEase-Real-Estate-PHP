@@ -1,0 +1,136 @@
+:root {
+    --main-color: rgb(0, 158, 96);
+    --first-color: #ebebeb;
+    --second-color: #099d02;
+    --third-color: #fff;
+    --font-color: black;
+    --hover-color: #099d02;
+    --background-color: #fff;
+    --btn-color: #099d02;
+    --table-color: #f1f1f1;
+}
+* {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    padding: 0px;
+    background-color: var(--background-color) !important;
+}
+
+.add-information{
+    padding: 20px;
+}
+
+h4 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Swiper Styles */
+.swiper-slide {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    overflow: hidden;
+    border-radius: 10px;
+    padding:15px;
+}
+
+.swiper-slide img {
+    width:100%;
+    max-height: 100%;
+    object-fit:contain;
+    display:block;
+    margin:auto;
+}
+
+.mySwiper {
+    width: 50%;
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top : 20px;
+    background-color: var(--first-color);
+    color: var(--font-color);
+}
+
+/* Information Area Styles */
+.add-information {
+    margin-top: 20px;
+    background-color: var(--background-color);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: var(--font-color);
+}
+
+.front-title {
+    background-color:rgb(0, 158, 96);
+    color: white;
+    padding: 10px;
+    border-radius: 8px 8px 0 0;
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.tables1, .tables2 {
+    background-color: var(--first-color);
+    padding: 20px;
+    border-radius: 5px;
+    
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tables1 td, .tables2 td {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+    width:30%;
+    font-weight:550;
+}
+
+.tables2 tr:last-child td {
+    border-bottom: none;
+}
+.tables2 tr:nth-last-child(2) td {
+    border-bottom: none;
+}
+.tables1 td:last-child, .tables2 td:last-child {
+    font-weight:100;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.title-ad{
+    padding:20px;
+    text-align: center;
+}

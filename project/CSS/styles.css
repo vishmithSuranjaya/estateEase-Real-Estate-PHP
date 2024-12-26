@@ -1,0 +1,230 @@
+:root {
+    --main-color: rgb(0, 158, 96);
+    --first-color: #ebebeb;
+    --second-color: #099d02;
+    --third-color: #fff;
+    --font-color: black;
+    --hover-color: #099d02;
+    --background-color: #fff;
+    --btn-color: #099d02;
+}
+body{
+    background-color: var(--third-color) !important;
+}
+/*------------------------------------------ Img slider section -----------------------------*/
+.img-slider .carousel-item{
+    width: 100%;
+    height: 500px;
+    
+    
+}
+
+
+/*------------------------------------------------------------------ banner section ----------------------*/
+.banner{
+    margin: 3rem;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    color: var(--second-color);
+    background-color: var(--third-color);
+}
+.banner .col01{
+    text-align: left;
+    padding: 10rem 2rem;
+}
+.banner button{
+    background-color: var(--first-color);
+    color: var(--second-color);
+    border: 1px solid var(--second-color);
+    padding: 10px;
+}
+.banner button:hover{
+    background-color: var(--hover-color);
+    color: var(--main-color);
+    border: 1px solid var(--main-color);
+}
+
+/*---------------------------------------------------------------- home page blog section ----------------------*/
+.homepage-blog{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 8rem;
+    background-color: var(--first-color);
+}
+.homepage-blog .hpb-box{
+    width: 300px;
+    margin: 2rem;
+    border: 1px solid var(--second-color);
+    color: var(--font-color);
+}
+.homepage-blog .hpb-box img{
+    width: 100%;
+}
+.homepage-blog .hpb-box p{
+    padding: 10px;
+}
+.homepage-blog .hpb-box .hpb-box-btn{
+    background-color: var(--first-color);
+    color: var(--second-color);
+    padding: 10px;
+    border: 1px solid var(--second-color);
+    align-items: center;
+    margin: 1rem;
+}
+.homepage-blog .hpb-box .hpb-box-btn:hover{
+    background-color: var(--hover-color);
+    color: var(--main-color);
+    border: 1px solid var(--main-color);
+}
+.navbar.active{
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 1000;
+}
+
+
+/*-----------------------------------**************************************End of home page***********************--*/
+
+/*-----------------------------------***************************************sell page **********************---*/
+
+.sell-page{
+    display: grid;
+    grid-template-columns: 25% 75%;
+}
+
+/*-------------------------------------***************************************user profile page*****************--*/
+#project .left {
+    background: url("../images/arrow_left_home.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+    height: 38px;
+    top: 43%;
+}
+/*--------------------------------------------------------------------advertisement card ---------------------------------*/
+.advertiments{
+    background-color: var(--third-color);
+    color: var(--font-color);
+}
+.advertiments h4{
+    color: var(--second-color);
+}
+.sellAds{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box .card{
+    background-color: var(--first-color);
+    margin: 1rem;
+}
+.box .card .card-body p{
+    padding-bottom: 3px;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+}
+.card .card-body .card-text{
+    text-align: center;
+    font-weight:600;
+    font-size:1.3rem;
+}
+.card .card-body table tr td{
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 11px;
+    font-weight: 200;
+}
+.box .card .card-body .btn{
+    margin: 8px;
+    color: var(--first-color);
+    background-color: var(--btn-color);
+    
+}
+.box .card .card-body .btn2{
+    background: none;
+    border: none;
+    font-size: 1.3rem;
+    float: right;
+    margin: 10px;
+    margin-left:120px;
+}
+.card .card-body .btn2:hover{
+    color: var(--main-color);
+}
+.card{
+    width:10rem;
+    min-height: 530px;
+    overflow:hidden;
+}
+.ad-box{
+     margin: 0 auto; 
+}
+
+.card .button_group {
+    position:absolute;
+    bottom: 10px; 
+    
+}
+.card .card-img-container {
+    height: 200px; 
+    overflow: hidden; 
+    position: relative; 
+}
+
+.card .card-img-container img {
+    width: 100%; 
+    height: auto; 
+    object-fit: cover; 
+}
+.ad-box {
+    width: 100%;
+    margin-top: 10px;
+    border: 1px solid #dee2e6; 
+    padding: 10px;
+}
+.sellAds {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+}
+
+.content {
+    margin-bottom: 20px;
+    
+}
+
+.card {
+    margin-bottom: 20px;
+    cursor:pointer;
+}
+
+.card-img-top {
+    text-align: center;
+    margin: 10px 0;
+    color: #6c757d; 
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.card-text {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+.ad-box {
+    width: 100%;
+    margin-top: 10px;
+    border: 1px solid #dee2e6; 
+    padding: 10px;
+}
+
+.button_group {
+    margin-top: 10px;
+    text-align: right;
+}
+
